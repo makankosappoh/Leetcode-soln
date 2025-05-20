@@ -13,6 +13,7 @@ My leetcode solution submissions
 | ------- |
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
@@ -23,6 +24,7 @@ My leetcode solution submissions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
@@ -32,9 +34,18 @@ My leetcode solution submissions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
