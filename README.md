@@ -17,6 +17,7 @@ My leetcode solution submissions
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
@@ -30,6 +31,7 @@ My leetcode solution submissions
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
