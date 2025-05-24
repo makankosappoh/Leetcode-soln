@@ -8,6 +8,7 @@ My leetcode solution submissions
 | ------- |
 | [0007-reverse-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/makankosappoh/Leetcode-soln/tree/master/2383-add-two-integers) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
 ## Array
@@ -18,6 +19,7 @@ My leetcode solution submissions
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
@@ -32,6 +34,7 @@ My leetcode solution submissions
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
