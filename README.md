@@ -8,6 +8,7 @@ My leetcode solution submissions
 | ------- |
 | [0007-reverse-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/makankosappoh/Leetcode-soln/tree/master/2383-add-two-integers) |
@@ -87,4 +88,8 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
