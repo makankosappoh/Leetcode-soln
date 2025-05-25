@@ -10,6 +10,7 @@ My leetcode solution submissions
 | [0009-palindrome-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/makankosappoh/Leetcode-soln/tree/master/2383-add-two-integers) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
@@ -56,6 +57,7 @@ My leetcode solution submissions
 | ------- |
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
