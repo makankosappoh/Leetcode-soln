@@ -17,6 +17,7 @@ My leetcode solution submissions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ My leetcode solution submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
