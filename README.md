@@ -13,6 +13,7 @@ My leetcode solution submissions
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/makankosappoh/Leetcode-soln/tree/master/2383-add-two-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
