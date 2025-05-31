@@ -86,6 +86,7 @@ My leetcode solution submissions
 | [0283-move-zeroes](https://github.com/makankosappoh/Leetcode-soln/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ My leetcode solution submissions
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 ## String Matching
@@ -113,4 +115,8 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/makankosappoh/Leetcode-soln/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
