@@ -27,6 +27,7 @@ My leetcode solution submissions
 | [0041-first-missing-positive](https://github.com/makankosappoh/Leetcode-soln/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/makankosappoh/Leetcode-soln/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/makankosappoh/Leetcode-soln/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
@@ -126,4 +127,8 @@ My leetcode solution submissions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/makankosappoh/Leetcode-soln/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
