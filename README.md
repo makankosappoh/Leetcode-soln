@@ -48,6 +48,7 @@ My leetcode solution submissions
 | ------- |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
@@ -66,6 +67,7 @@ My leetcode solution submissions
 | [0041-first-missing-positive](https://github.com/makankosappoh/Leetcode-soln/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
@@ -107,6 +109,7 @@ My leetcode solution submissions
 | [0065-valid-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
