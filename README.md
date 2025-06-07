@@ -12,6 +12,7 @@ My leetcode solution submissions
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/makankosappoh/Leetcode-soln/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
@@ -71,6 +72,7 @@ My leetcode solution submissions
 | [0013-roman-to-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/makankosappoh/Leetcode-soln/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
@@ -102,6 +104,7 @@ My leetcode solution submissions
 | [0125-valid-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/makankosappoh/Leetcode-soln/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
