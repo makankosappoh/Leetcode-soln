@@ -31,6 +31,7 @@ My leetcode solution submissions
 | [0041-first-missing-positive](https://github.com/makankosappoh/Leetcode-soln/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/makankosappoh/Leetcode-soln/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/makankosappoh/Leetcode-soln/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/makankosappoh/Leetcode-soln/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,6 +153,7 @@ My leetcode solution submissions
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/makankosappoh/Leetcode-soln/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/makankosappoh/Leetcode-soln/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
 ## Enumeration
