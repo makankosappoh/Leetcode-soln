@@ -12,6 +12,7 @@ My leetcode solution submissions
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/makankosappoh/Leetcode-soln/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
@@ -148,6 +149,7 @@ My leetcode solution submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -172,4 +174,8 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/makankosappoh/Leetcode-soln/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
