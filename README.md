@@ -80,6 +80,7 @@ My leetcode solution submissions
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ My leetcode solution submissions
 | ------- |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ My leetcode solution submissions
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
