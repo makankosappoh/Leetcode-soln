@@ -40,6 +40,7 @@ My leetcode solution submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/makankosappoh/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/makankosappoh/Leetcode-soln/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ My leetcode solution submissions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/makankosappoh/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
 ## Sorting
 |  |
