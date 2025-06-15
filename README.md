@@ -15,6 +15,7 @@ My leetcode solution submissions
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/makankosappoh/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
@@ -41,6 +42,7 @@ My leetcode solution submissions
 | [0134-gas-station](https://github.com/makankosappoh/Leetcode-soln/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/makankosappoh/Leetcode-soln/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/makankosappoh/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
@@ -89,6 +91,7 @@ My leetcode solution submissions
 | [0012-integer-to-roman](https://github.com/makankosappoh/Leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/makankosappoh/Leetcode-soln/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/makankosappoh/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
@@ -214,4 +217,8 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/makankosappoh/Leetcode-soln/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/makankosappoh/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
