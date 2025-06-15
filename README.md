@@ -20,6 +20,7 @@ My leetcode solution submissions
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2383-add-two-integers](https://github.com/makankosappoh/Leetcode-soln/tree/master/2383-add-two-integers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/makankosappoh/Leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -182,6 +183,7 @@ My leetcode solution submissions
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/makankosappoh/Leetcode-soln/tree/master/0561-array-partition) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/makankosappoh/Leetcode-soln/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/makankosappoh/Leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Enumeration
