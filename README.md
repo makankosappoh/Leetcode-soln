@@ -53,6 +53,7 @@ My leetcode solution submissions
 | [0561-array-partition](https://github.com/makankosappoh/Leetcode-soln/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/makankosappoh/Leetcode-soln/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/makankosappoh/Leetcode-soln/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
