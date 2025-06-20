@@ -49,6 +49,7 @@ My leetcode solution submissions
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/makankosappoh/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/makankosappoh/Leetcode-soln/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/makankosappoh/Leetcode-soln/tree/master/0561-array-partition) |
@@ -89,6 +90,7 @@ My leetcode solution submissions
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
@@ -113,6 +115,7 @@ My leetcode solution submissions
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -137,6 +140,7 @@ My leetcode solution submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/makankosappoh/Leetcode-soln/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
