@@ -23,6 +23,7 @@ My leetcode solution submissions
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2383-add-two-integers](https://github.com/makankosappoh/Leetcode-soln/tree/master/2383-add-two-integers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/makankosappoh/Leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -182,6 +183,7 @@ My leetcode solution submissions
 | ------- |
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +194,7 @@ My leetcode solution submissions
 | [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +229,7 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
