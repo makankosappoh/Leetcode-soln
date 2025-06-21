@@ -21,6 +21,7 @@ My leetcode solution submissions
 | [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/makankosappoh/Leetcode-soln/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
@@ -183,6 +184,7 @@ My leetcode solution submissions
 | ------- |
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/makankosappoh/Leetcode-soln/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
