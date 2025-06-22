@@ -172,6 +172,7 @@ My leetcode solution submissions
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -219,6 +220,7 @@ My leetcode solution submissions
 | ------- |
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Number Theory
 |  |
 | ------- |
