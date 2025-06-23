@@ -107,6 +107,7 @@ My leetcode solution submissions
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
@@ -128,6 +129,7 @@ My leetcode solution submissions
 | ------- |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -168,6 +170,7 @@ My leetcode solution submissions
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
@@ -242,4 +245,8 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/makankosappoh/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
