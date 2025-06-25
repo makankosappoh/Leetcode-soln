@@ -60,6 +60,7 @@ My leetcode solution submissions
 | [2144-maximum-difference-between-increasing-elements](https://github.com/makankosappoh/Leetcode-soln/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/makankosappoh/Leetcode-soln/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
@@ -94,6 +95,7 @@ My leetcode solution submissions
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +114,7 @@ My leetcode solution submissions
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
@@ -196,6 +199,7 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/makankosappoh/Leetcode-soln/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,4 +255,8 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
