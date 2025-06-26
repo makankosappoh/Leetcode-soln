@@ -181,6 +181,7 @@ My leetcode solution submissions
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/makankosappoh/Leetcode-soln/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -207,6 +208,7 @@ My leetcode solution submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +220,7 @@ My leetcode solution submissions
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/makankosappoh/Leetcode-soln/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/makankosappoh/Leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Enumeration
@@ -243,6 +246,7 @@ My leetcode solution submissions
 | ------- |
 | [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Counting Sort
 |  |
 | ------- |
