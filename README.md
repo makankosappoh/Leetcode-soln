@@ -22,6 +22,7 @@ My leetcode solution submissions
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/makankosappoh/Leetcode-soln/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
@@ -94,6 +95,7 @@ My leetcode solution submissions
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
@@ -195,6 +197,7 @@ My leetcode solution submissions
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/makankosappoh/Leetcode-soln/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
