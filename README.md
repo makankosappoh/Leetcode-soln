@@ -21,6 +21,7 @@ My leetcode solution submissions
 | [0202-happy-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/makankosappoh/Leetcode-soln/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
@@ -51,6 +52,7 @@ My leetcode solution submissions
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/makankosappoh/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/makankosappoh/Leetcode-soln/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
@@ -79,6 +81,7 @@ My leetcode solution submissions
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
@@ -94,6 +97,7 @@ My leetcode solution submissions
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/makankosappoh/Leetcode-soln/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
@@ -111,6 +115,7 @@ My leetcode solution submissions
 | [0205-isomorphic-strings](https://github.com/makankosappoh/Leetcode-soln/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
@@ -124,6 +129,7 @@ My leetcode solution submissions
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/makankosappoh/Leetcode-soln/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makankosappoh/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/makankosappoh/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
