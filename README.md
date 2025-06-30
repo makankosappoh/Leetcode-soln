@@ -60,6 +60,7 @@ My leetcode solution submissions
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/makankosappoh/Leetcode-soln/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/makankosappoh/Leetcode-soln/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -89,6 +90,7 @@ My leetcode solution submissions
 | [0414-third-maximum-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/makankosappoh/Leetcode-soln/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/makankosappoh/Leetcode-soln/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/makankosappoh/Leetcode-soln/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -123,6 +125,7 @@ My leetcode solution submissions
 | [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -145,6 +148,7 @@ My leetcode solution submissions
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -276,5 +280,6 @@ My leetcode solution submissions
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
