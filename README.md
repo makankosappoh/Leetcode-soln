@@ -32,6 +32,7 @@ My leetcode solution submissions
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/makankosappoh/Leetcode-soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/makankosappoh/Leetcode-soln/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@ My leetcode solution submissions
 | [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +219,7 @@ My leetcode solution submissions
 | [0326-power-of-three](https://github.com/makankosappoh/Leetcode-soln/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/makankosappoh/Leetcode-soln/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
@@ -254,6 +257,7 @@ My leetcode solution submissions
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
