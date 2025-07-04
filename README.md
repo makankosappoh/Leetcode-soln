@@ -10,6 +10,7 @@ My leetcode solution submissions
 | [0009-palindrome-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/makankosappoh/Leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/makankosappoh/Leetcode-soln/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/makankosappoh/Leetcode-soln/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/makankosappoh/Leetcode-soln/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/makankosappoh/Leetcode-soln/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
@@ -184,6 +185,7 @@ My leetcode solution submissions
 | [0014-longest-common-prefix](https://github.com/makankosappoh/Leetcode-soln/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/makankosappoh/Leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/makankosappoh/Leetcode-soln/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/makankosappoh/Leetcode-soln/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
@@ -254,6 +256,7 @@ My leetcode solution submissions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/makankosappoh/Leetcode-soln/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/makankosappoh/Leetcode-soln/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/makankosappoh/Leetcode-soln/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
