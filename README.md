@@ -67,6 +67,7 @@ My leetcode solution submissions
 | [0628-maximum-product-of-three-numbers](https://github.com/makankosappoh/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1603-running-sum-of-1d-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/makankosappoh/Leetcode-soln/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/makankosappoh/Leetcode-soln/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/makankosappoh/Leetcode-soln/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/makankosappoh/Leetcode-soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -133,6 +134,7 @@ My leetcode solution submissions
 | [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/makankosappoh/Leetcode-soln/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/makankosappoh/Leetcode-soln/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/makankosappoh/Leetcode-soln/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -297,4 +299,8 @@ My leetcode solution submissions
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/makankosappoh/Leetcode-soln/tree/master/3193-maximum-strong-pair-xor-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/makankosappoh/Leetcode-soln/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
