@@ -1,13 +1,20 @@
 class Solution {
 public:
+// muuch easy approach by hashmap
     vector<int> twoSum(vector<int>& nums, int target) {
-        for(int i = 0; i < nums.size();i++){//iterate each element for idx i
-            for(int j = i + 1; j < nums.size(); j++){//also iterate idx j from i + 1 next element to i 
-                if(nums[i]+nums[j] == target){
-                    return {i,j};//we use another j bcz we need two seperate indexes
-                }
-            }
+        if (nums.empty())
+            return {}; // if empty return nothing
+        unordered_map<int, int> map;
+        for (int i = 0; i < nums.size(); i++) {
+            // calculate complement of nums[i] by subracting it with target
+            int d = target - nums[i];
+            // if complement exist, return solution as valid pairs of number
+            if (map.count(d))
+                return {map[d], i};
+            // not in if loop, default if complemetn dont exist add current
+            // element nums[i] to hash table as its index value
+            map[nums[i]] = i;
         }
-        return{};
+        return {}; // default nothing if no solution found
     }
 };
