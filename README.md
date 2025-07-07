@@ -45,6 +45,7 @@ My leetcode solution submissions
 | [0031-next-permutation](https://github.com/makankosappoh/Leetcode-soln/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/makankosappoh/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/makankosappoh/Leetcode-soln/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/makankosappoh/Leetcode-soln/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/makankosappoh/Leetcode-soln/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/makankosappoh/Leetcode-soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/makankosappoh/Leetcode-soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -236,6 +237,7 @@ My leetcode solution submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/makankosappoh/Leetcode-soln/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/makankosappoh/Leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makankosappoh/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0392-is-subsequence) |
@@ -244,6 +246,7 @@ My leetcode solution submissions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/makankosappoh/Leetcode-soln/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/makankosappoh/Leetcode-soln/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/makankosappoh/Leetcode-soln/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/makankosappoh/Leetcode-soln/tree/master/0409-longest-palindrome) |
