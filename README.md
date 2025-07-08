@@ -128,6 +128,7 @@ My leetcode solution submissions
 | [0217-contains-duplicate](https://github.com/makankosappoh/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/makankosappoh/Leetcode-soln/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/makankosappoh/Leetcode-soln/tree/master/0389-find-the-difference) |
@@ -155,6 +156,7 @@ My leetcode solution submissions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/makankosappoh/Leetcode-soln/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/makankosappoh/Leetcode-soln/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/makankosappoh/Leetcode-soln/tree/master/0594-longest-harmonious-subsequence) |
@@ -202,6 +204,7 @@ My leetcode solution submissions
 | [0171-excel-sheet-column-number](https://github.com/makankosappoh/Leetcode-soln/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/makankosappoh/Leetcode-soln/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/makankosappoh/Leetcode-soln/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/makankosappoh/Leetcode-soln/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makankosappoh/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/makankosappoh/Leetcode-soln/tree/master/0383-ransom-note) |
